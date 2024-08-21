@@ -11,6 +11,10 @@ The objective of this project is to analyze the diversity and inclusion metrics 
 **Data Cleaning:**
 The dataset was carefully cleaned by handling missing values, removing duplicates, renaming columns for clarity, and standardizing data formats to ensure consistency across all records.
 
+
+![Diversity and inclusion report pic](https://github.com/user-attachments/assets/290b6ab4-cb6e-43a9-9a40-73058077a627)
+
+
 ### **Exploratory Data Analysis (EDA):**
 The EDA focused on answering the following key questions:
 - What is the total number of current employees?
